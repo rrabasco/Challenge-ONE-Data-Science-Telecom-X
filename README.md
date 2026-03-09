@@ -16,3 +16,5 @@ Tu desafío será recopilar, procesar y analizar los datos, utilizando Python y 
 ✅ Realizar un Análisis Exploratorio de Datos (EDA) y generar un informe con insights relevantes.
 
 ¡Ahora es tu turno! 🚀 Usa tus conocimientos para transformar datos en información estratégica y ayudar a Telecom X a retener más clientes.
+
+[Click Here]([url](https://colab.research.google.com/drive/1lUMf02VmO8bWH4gHdevj-Q6LF2n9osX1))
